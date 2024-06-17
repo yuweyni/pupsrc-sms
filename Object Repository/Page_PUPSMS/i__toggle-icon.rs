@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>53d47390-43d1-4f6e-a2f9-e753c2ceff6c</webElementGuid>
+      <webElementGuid>480624dd-a0cf-4152-a70e-9590d91d7435</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fas fa-eye-slash</value>
-      <webElementGuid>3a8e3475-7ce9-44ea-b448-47092f1a003c</webElementGuid>
+      <webElementGuid>d152ac8b-63fc-4756-8a2b-746b3938637c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>toggle-icon</value>
-      <webElementGuid>9762ff9a-8a27-4b6b-bde0-b7cdefc3aec8</webElementGuid>
+      <webElementGuid>fea5193a-b427-4958-89a6-a0062aadf328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>62969cf9-1be6-40b2-9bbc-989271c6354f</webElementGuid>
+      <webElementGuid>7889d531-5a0e-4b18-95be-129cb0df01cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;toggle-icon&quot;)</value>
-      <webElementGuid>28dce049-f9b7-4076-b571-60c3984a2533</webElementGuid>
+      <webElementGuid>426a1866-7c38-4174-b4a7-fc22e5a0e665</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//i[@id='toggle-icon']</value>
-      <webElementGuid>6df6b39f-02d5-4ce1-936f-b5a3684dc37a</webElementGuid>
+      <webElementGuid>1b285a2f-22c8-4607-8d36-4ff91895a5d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='myForm']/div[2]/div/span/i</value>
-      <webElementGuid>b7f6e683-ae7e-4de3-89cb-a22fcb8e51d1</webElementGuid>
+      <webElementGuid>da0bbcee-c2b4-49fb-95d8-e34ecab8ad07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>c54e241a-51c7-46e4-97a7-5b02404f139c</webElementGuid>
+      <webElementGuid>b26ad151-56ae-4451-b896-b1db2563b661</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[@id = 'toggle-icon']</value>
-      <webElementGuid>6225596a-496b-45b4-b6ca-c7de4245aedc</webElementGuid>
+      <webElementGuid>c36156a4-a18d-4c0a-8c01-1c89ffdfc39a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
