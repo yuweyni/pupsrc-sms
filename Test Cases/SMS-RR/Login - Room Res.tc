@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Room Res</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcc1ca17-7ee4-40a4-b3fd-2e1c6f4bde8a</testCaseGuid>
+</TestCaseEntity>
