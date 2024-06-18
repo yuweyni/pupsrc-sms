@@ -27,3 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__pass
 
 WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign                                    In'))
 
+WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/div_Real-Time Input Validator Example      _46f3d4'))
+

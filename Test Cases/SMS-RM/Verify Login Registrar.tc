@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Default</name>
+   <name>Verify Login Registrar</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f6948c4f-421e-458c-93a0-3bd43c9304ed</testCaseGuid>
+   <testCaseGuid>a3d3e18b-78bc-4fe2-98e8-557b47ae52e8</testCaseGuid>
 </TestCaseEntity>
