@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
 
-WebUI.setText(findTestObject('Object Repository/SMS - ICT/Page_PUPSMS/input__email'), 'faculty@pupsrcsms.com')
+WebUI.setText(findTestObject('Object Repository/SMS-ICT/Page_PUPSMS/input__email'), 'faculty@pupsrcsms.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/SMS - ICT/Page_PUPSMS/input__password'), 'RlRahI1hXsM=')
+WebUI.setEncryptedText(findTestObject('Object Repository/SMS-ICT/Page_PUPSMS/input__password'), 'RlRahI1hXsM=')
 
-WebUI.click(findTestObject('Object Repository/SMS - ICT/Page_PUPSMS/button_Sign                                    In'))
+WebUI.click(findTestObject('Object Repository/SMS-ICT/Page_PUPSMS/button_Sign                                    In'))
 
 WebUI.closeBrowser()
 
