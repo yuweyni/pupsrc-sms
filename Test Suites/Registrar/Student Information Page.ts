@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>Default Page</name>
+   <description>This contains all the elements that can be found in the Student Information Page of the Registrar Module</description>
+   <name>Student Information Page</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
