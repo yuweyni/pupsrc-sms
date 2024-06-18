@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Research_Vector</name>
+   <tag></tag>
+   <elementGuidId>af8e384c-356e-420b-930f-300b04e49bc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Vector</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Vector']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>efdd556a-f269-4043-b58d-9927dd6eb797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Vector</value>
+      <webElementGuid>63b366c4-aad8-44f0-8f44-8c31f61d7d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M27.3751 23.9417L27.0917 23.6917C26.2879 22.9755 25.5844 22.1542 25.0001 21.25C24.3619 20.0021 23.9795 18.6393 23.8751 17.2417V13.125C23.8806 10.9297 23.0843 8.80789 21.6357 7.1583C20.1871 5.50872 18.186 4.44487 16.0084 4.16666V3.09166C16.0084 2.7966 15.8912 2.51363 15.6826 2.305C15.4739 2.09637 15.191 1.97916 14.8959 1.97916C14.6009 1.97916 14.3179 2.09637 14.1093 2.305C13.9006 2.51363 13.7834 2.7966 13.7834 3.09166V4.18332C11.6253 4.4816 9.64839 5.55187 8.21885 7.19591C6.78932 8.83995 6.00402 10.9464 6.00841 13.125V17.2417C5.90404 18.6393 5.52156 20.0021 4.88341 21.25C4.30915 22.1519 3.61691 22.9731 2.82508 23.6917L2.54175 23.9417V26.2917H27.3751V23.9417Z</value>
+      <webElementGuid>177e821c-9905-459e-a170-d19392ea0c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--bs-primary)</value>
+      <webElementGuid>a3ea8b1a-3d39-4e89-b6e7-11d867333490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Icon buttons&quot;)/path[@id=&quot;Vector&quot;]</value>
+      <webElementGuid>dd224eec-881e-4919-89ff-46e0259e283c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Vector']</value>
+      <webElementGuid>0c669d79-ca06-4e8a-8578-e8eb29f05c9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
