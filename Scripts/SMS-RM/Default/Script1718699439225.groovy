@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
+
+WebUI.setText(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/input__email'), 'RegistrarAdmin@pupsrcsms.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/input__password'), '1b6ODxiWDdU=')
+
+WebUI.click(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/button_Sign                                    In'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/input__password'), '1b6ODxiWDdU=')
+
+WebUI.setText(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/input__email'), 'RegistrarAdmin@pupsrcsms.com')
+
+WebUI.click(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/button_Sign                                    In'))
+
+WebUI.click(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/div_Sign in to your account                _3f2954'))
+
+WebUI.setText(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/input__email'), 'RegistrarAdmin@pupsrcsms.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/input__password'), '373N5QL8KVQ=')
+
+WebUI.click(findTestObject('Object Repository/SMS-RM/Page_PUPSMS/button_Sign                                    In'))
+
