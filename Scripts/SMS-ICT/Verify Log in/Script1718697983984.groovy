@@ -27,11 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__pass
 
 WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign                                    In'))
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/i_Dashboard_sidenav-toggler-line'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
 WebUI.closeBrowser()
 
