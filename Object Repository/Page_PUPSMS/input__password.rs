@@ -3,6 +3,7 @@
    <description></description>
    <name>input__password</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>b0ddaca8-ff18-449b-9975-8016b6efbcef</elementGuidId>
    <selectorCollection>
       <entry>
@@ -126,5 +127,130 @@
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'password' and @name = 'password' and @placeholder = 'Enter your password']</value>
       <webElementGuid>8c2a1840-f662-4f0c-847d-a40e62b7fd22</webElementGuid>
+=======
+   <elementGuidId>70461f34-8bbb-4061-9676-03eb6e2eb53b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter your password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5ce8b705-932e-4363-905f-71a91f521f8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>51a16564-6e33-4aa0-8a43-cad2b51e3353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>e489f545-f117-4ed1-b108-02d2b4a799d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>31e1b052-779f-4482-9d81-f53b68ba83e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>5a24b437-91d6-49fd-8132-4210ee5cf79f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your password</value>
+      <webElementGuid>7229349f-4157-4a5e-a8d0-ff57808a0635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>d928fa9e-d1e9-4b47-98f6-fab1d0082706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>password-addon</value>
+      <webElementGuid>3f083dfb-b2fc-4e46-ad25-9495b0034220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>45e90762-807a-4a9a-bcd4-d1a95e6ce789</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='password']</value>
+      <webElementGuid>14b28564-391e-4ba2-ae61-4f93a69de48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='myForm']/div[2]/div/input</value>
+      <webElementGuid>1f912a55-a0a9-4f72-8f3c-104008526730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>efd98be5-e19a-40e6-9256-6ae4ccdf4f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'password' and @name = 'password' and @placeholder = 'Enter your password']</value>
+      <webElementGuid>de675d84-946e-411d-ac8c-2d464ffd8f7f</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
    </webElementXpaths>
 </WebElementEntity>
