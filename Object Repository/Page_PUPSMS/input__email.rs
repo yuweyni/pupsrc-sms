@@ -4,6 +4,7 @@
    <name>input__email</name>
    <tag></tag>
 <<<<<<< HEAD
+<<<<<<< HEAD
    <elementGuidId>b09ba097-c794-43a1-a5ae-060859b0bbeb</elementGuidId>
    <selectorCollection>
       <entry>
@@ -137,6 +138,141 @@
       <webElementGuid>85ce0cc1-af02-42f6-8220-97e85dd58d15</webElementGuid>
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+   <elementGuidId>fd4c2439-e83d-4ac1-b38e-8fc0d81f1e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter your email&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>37c2b1f3-8792-44a5-879a-2bf87338f3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>bd2a12a2-e335-45de-a9a1-75de255008d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>479cf483-dde2-40c9-88ee-a3e62c101f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>124eca30-7063-47f1-bd76-ce99b89a5c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c81af590-0079-4bd1-965b-25a0d3da9048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your email</value>
+      <webElementGuid>3d2ce585-5f92-49c6-bba9-a9b0ee673d64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>7ca0347b-f69e-46c9-98b7-3eb1b7029461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>email-addon</value>
+      <webElementGuid>c5a5075e-1f5e-4d3c-9936-21dc60f4e5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>1a6e3268-5106-4674-a98b-7abc56c4e57d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email&quot;)</value>
+      <webElementGuid>9f0a12dd-033b-4721-ae79-5b89e524fc45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='email']</value>
+      <webElementGuid>d1bc1063-82fb-413b-a4fc-aa993ddd9b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='myForm']/div/input</value>
+      <webElementGuid>da69dc93-32f0-46c8-9152-4dacefce77d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>14abdbd8-8b69-4b66-a367-399ebc408a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Enter your email']</value>
+      <webElementGuid>7ac22274-cda4-4b76-99c5-9e8e0eaf4307</webElementGuid>
+=======
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
    <elementGuidId>7c674057-6f8a-421a-ac42-3a30087689cc</elementGuidId>
    <selectorCollection>
       <entry>
@@ -401,6 +537,7 @@
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Enter your email']</value>
       <webElementGuid>3db819c9-33cc-40b8-87a4-0d0a7721cc92</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
 =======
    <elementGuidId>5ed2e441-f7b5-44b6-a357-57a12c93b87f</elementGuidId>
    <selectorCollection>
@@ -533,6 +670,9 @@
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Enter your email']</value>
       <webElementGuid>557d7d5c-2db9-4383-a106-a3c329cfe84e</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
+<<<<<<< HEAD
+=======
 >>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
 >>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
 >>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
