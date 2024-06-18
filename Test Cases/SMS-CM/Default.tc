@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>system settings is clickable</name>
+   <name>Default</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53d681c4-e336-49bc-9d4f-d205ff70652e</testCaseGuid>
+   <testCaseGuid>8f5603dd-c55b-49ae-bc9e-18c3eb0f3a2c</testCaseGuid>
 </TestCaseEntity>

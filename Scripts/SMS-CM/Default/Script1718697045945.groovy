@@ -17,21 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
-
-WebUI.setText(findTestObject('Object Repository/Page_PUPSMS/input__email'), 'Super_admin@pupsrcsms.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__password'), '373N5QL8KVQ=')
-
-WebUI.click(findTestObject('Object Repository/Page_PUPSMS/i__toggle-icon'))
-
-WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign                                    In'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_PUPSRC-SMS/span_Create Account'))
-
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/button_Create Account'))
-
-WebUI.closeBrowser()
-
