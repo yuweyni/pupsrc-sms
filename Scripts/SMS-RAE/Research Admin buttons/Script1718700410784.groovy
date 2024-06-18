@@ -27,35 +27,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/SMS-RAE/Page_PUPSMS/inp
 
 WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSMS/button_Sign                                    In'))
 
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/i_Dashboard_sidenav-toggler-line'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/a_Research'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/button_Open'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/button_Close'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/span_Delete'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/button_Close'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/input_Search_selectAll'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/input_Search_selectAll'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/a_Pending 0'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/a_Done 0'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/a_All 0'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/path_Research_Vector'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/svg'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/svg'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/svg'))
-
-WebUI.click(findTestObject('Object Repository/SMS-RAE/Page_PUPSRC-SMS/span_Logout'))
-
