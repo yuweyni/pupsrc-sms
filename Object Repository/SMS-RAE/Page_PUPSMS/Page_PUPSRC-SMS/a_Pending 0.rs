@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign                                    In</name>
+   <name>a_Pending 0</name>
    <tag></tag>
-   <elementGuidId>8a69238f-d764-4b14-b7c1-5e0935b2d933</elementGuidId>
+   <elementGuidId>b93394d2-c8d8-4fda-8dd8-33408630b831</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button[name=&quot;submit&quot;]</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@name='submit']</value>
+         <value>//ul[@id='navbarTableRecord']/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Sign In&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -28,98 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>beab835a-1e52-4fb4-87db-f57d4eae8c5d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>aea04fcc-c558-4836-9d3e-2ac1b1a6319a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>19d582ec-9ec5-48b0-9245-6d22a6afc561</webElementGuid>
+      <value>a</value>
+      <webElementGuid>dd484208-c8c2-43a8-9147-85ac43bcba9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-tertiary w-100 my-3</value>
-      <webElementGuid>83c3065e-0002-4bbc-8782-67cba4414b9f</webElementGuid>
+      <value>nav-link</value>
+      <webElementGuid>a157f3e1-1a54-424f-bc0b-cd95ba0e0205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>99a26aea-3c38-4447-808c-d6c7563180cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-status</name>
+      <type>Main</type>
+      <value>Pending</value>
+      <webElementGuid>03ce9330-ab9d-41e1-be0b-4c20f6d2fd1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign
-                                    In</value>
-      <webElementGuid>551b1a4c-4836-4ad5-944f-10e6803a194b</webElementGuid>
+      <value>Pending 0</value>
+      <webElementGuid>b933dbe6-576e-438b-b2c3-9b9a55460c87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;myForm&quot;)/button[@class=&quot;btn btn-tertiary w-100 my-3&quot;]</value>
-      <webElementGuid>80a4cacd-4f16-4479-8772-3eca2c41bce5</webElementGuid>
+      <value>id(&quot;navbarTableRecord&quot;)/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>44793dae-1822-4f8f-95c4-4f79109e72b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@name='submit']</value>
-      <webElementGuid>c2ba830d-a1de-4271-a5ab-91f32e3607da</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='myForm']/button</value>
-      <webElementGuid>a53b32a0-fb10-48fa-b387-8a56dcab8b00</webElementGuid>
+      <value>//ul[@id='navbarTableRecord']/li[2]/a</value>
+      <webElementGuid>f4cfb1c2-9929-4d8d-8298-af03ae1d6064</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required.'])[1]/following::button[1]</value>
-      <webElementGuid>e78c3355-ea62-4eaf-a567-39827492f197</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extension Record'])[1]/following::a[2]</value>
+      <webElementGuid>a01cc8e7-3352-49ef-93bb-773fd8158cd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
-      <webElementGuid>a0ea230f-319d-44a4-8a6f-f902e4f501d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::a[2]</value>
+      <webElementGuid>e58ced31-3269-44ff-a5f1-1fe212c48eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pending']/parent::*</value>
+      <webElementGuid>9f40d439-c371-4e15-981f-68f5f85b7945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>898a866b-aa42-4fb8-9fce-f7700df8b450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>bba46b00-d959-4a27-86fd-5694fd38b42d</webElementGuid>
+      <value>//div/div/div/ul/li[2]/a</value>
+      <webElementGuid>db1871c7-7d34-421f-b381-34700ff4f3e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @name = 'submit' and (text() = 'Sign
-                                    In' or . = 'Sign
-                                    In')]</value>
-      <webElementGuid>54e72516-e0f7-4696-b22a-3dd8003f4d2b</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Pending 0' or . = 'Pending 0')]</value>
+      <webElementGuid>0a59a4dd-47a5-4b3c-bd8e-9224e3724bd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

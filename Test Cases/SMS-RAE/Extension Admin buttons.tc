@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Default</name>
+   <name>Extension Admin buttons</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dcfbe91c-f904-4566-a8fd-db5763bd80b4</testCaseGuid>
+   <testCaseGuid>6acdbcdd-8361-48c0-ac2e-c843069a7516</testCaseGuid>
 </TestCaseEntity>
