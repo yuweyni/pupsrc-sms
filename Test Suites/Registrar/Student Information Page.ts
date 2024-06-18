@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>Default Page</name>
+   <description>This contains all the elements that can be found in the Student Information Page of the Registrar Module</description>
+   <name>Student Information Page</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>afdd48ec-c2b3-4a5b-9dd2-df9db0d0afda</testSuiteGuid>
+   <testSuiteGuid>e9b662a0-965b-4c52-9f13-485af625276a</testSuiteGuid>
 </TestSuiteEntity>
