@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
+
+WebUI.setText(findTestObject('Object Repository/SMS-RR/Page_PUPSMS/input__email'), 'AdminOffice@pupsrcsms.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/SMS-RR/Page_PUPSMS/input__password'), '373N5QL8KVQ=')
+
+WebUI.click(findTestObject('Object Repository/SMS-RR/Page_PUPSMS/i__toggle-icon'))
+
+WebUI.click(findTestObject('Object Repository/SMS-RR/Page_PUPSMS/i__toggle-icon'))
+
+WebUI.click(findTestObject('Object Repository/SMS-RR/Page_PUPSMS/button_Sign                                    In'))
+
+WebUI.click(findTestObject('Object Repository/SMS-RR/Page_PUPSRC-SMS/div_Dashboard_sidenav-toggler-inner'))
+
+WebUI.click(findTestObject('Object Repository/SMS-RR/Page_PUPSRC-SMS/a_Chart of Schedules'))
+
+WebUI.closeBrowser()
+
