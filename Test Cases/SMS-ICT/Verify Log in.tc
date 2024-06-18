@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Default</name>
+   <name>Verify Log in</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>47518cb4-a8bf-4b1e-b77f-5241cb44d7df</testCaseGuid>
+   <testCaseGuid>db51ce32-52a7-44a1-a28a-73d47971ae46</testCaseGuid>
 </TestCaseEntity>
