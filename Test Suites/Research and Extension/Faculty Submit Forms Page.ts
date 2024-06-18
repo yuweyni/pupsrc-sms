@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Default Page</name>
+   <name>Faculty Submit Forms Page</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>afdd48ec-c2b3-4a5b-9dd2-df9db0d0afda</testSuiteGuid>
+   <testSuiteGuid>46e924bd-93f7-4180-a603-8e6f3a07a991</testSuiteGuid>
 </TestSuiteEntity>
