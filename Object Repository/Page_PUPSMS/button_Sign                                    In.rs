@@ -4,6 +4,7 @@
    <name>button_Sign                                    In</name>
    <tag></tag>
 <<<<<<< HEAD
+<<<<<<< HEAD
    <elementGuidId>4caa360b-15c1-452d-bda0-54560a7e9885</elementGuidId>
    <selectorCollection>
       <entry>
@@ -122,6 +123,126 @@
                                     In' or . = 'Sign
                                     In')]</value>
       <webElementGuid>43520816-3664-446a-9b9e-2296cd613f56</webElementGuid>
+=======
+   <elementGuidId>b42d6e7e-09c6-47e0-a7f9-f6c89253baed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sign In&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>535c2ce7-bd21-489d-82a7-af7b43e38615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7f7175f9-593b-4ed6-a7d8-4125c52c4ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d8a05c75-709d-4e42-922d-234baf855cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-tertiary w-100 my-3</value>
+      <webElementGuid>637e74f6-3f37-4e21-95f9-734ec2514402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign
+                                    In</value>
+      <webElementGuid>43d96610-dade-4e19-8a05-dd22b99206c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myForm&quot;)/button[@class=&quot;btn btn-tertiary w-100 my-3&quot;]</value>
+      <webElementGuid>02138f46-8eee-47f0-98d5-f6dbb822b52c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='submit']</value>
+      <webElementGuid>64e9672e-2c3e-4cf7-b73f-8d146d9be3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='myForm']/button</value>
+      <webElementGuid>bf5ac514-4b71-4ae9-b91d-1bd424af8d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required.'])[1]/following::button[1]</value>
+      <webElementGuid>242ac6b4-a1ac-4924-bb75-03897d3c0a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
+      <webElementGuid>c2cf7ad4-d012-48e1-84b7-c13ab8511aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>6f35088b-0279-4f8d-93b4-ed426ec944fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'submit' and (text() = 'Sign
+                                    In' or . = 'Sign
+                                    In')]</value>
+      <webElementGuid>a4b0bebb-811f-4444-b2bf-01eee79d43b0</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
 =======
    <elementGuidId>b139f5c3-d09f-4c4b-82f7-151403fe5d52</elementGuidId>
    <selectorCollection>

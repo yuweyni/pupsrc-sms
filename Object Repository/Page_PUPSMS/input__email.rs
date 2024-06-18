@@ -4,6 +4,7 @@
    <name>input__email</name>
    <tag></tag>
 <<<<<<< HEAD
+<<<<<<< HEAD
    <elementGuidId>268d49c7-8245-4425-92c2-31ecb97bd988</elementGuidId>
    <selectorCollection>
       <entry>
@@ -135,6 +136,139 @@
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Enter your email']</value>
       <webElementGuid>d0a1165d-9a11-4c0c-ae21-d489ee0fbf2f</webElementGuid>
+=======
+   <elementGuidId>a7a76a9e-fbdf-46f7-a5dc-85ee90d44e91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='email']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter your email&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9763b379-d23e-46d4-a1fc-0179d04fe16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>9d67aa5f-a10e-464f-98f1-5b46b865eee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>3c077c6e-cbb5-458b-91c3-fa9fed55a864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>836848d2-34b2-4719-bef3-77d2ed868835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>da48da3e-e0f7-4c4f-8b16-9568066d5fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your email</value>
+      <webElementGuid>8afb932d-5f2c-4b72-881a-1f3b20624535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>af6a52c8-b057-420e-aa66-7e4ffb3a24a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>email-addon</value>
+      <webElementGuid>e8751aaf-89ef-45d7-8471-63e470e839f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>5a52646e-d569-428e-ab5d-8cad751f4b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email&quot;)</value>
+      <webElementGuid>46ea5858-985f-43a3-bc2a-1ad0657a4a14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='email']</value>
+      <webElementGuid>6cc05bdf-58df-41d0-8e5c-6ab568e154cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='myForm']/div/input</value>
+      <webElementGuid>aef54e4b-9823-4904-9821-22721d3ce1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>c1a0add1-4f7a-4358-94ea-a7f15309d805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Enter your email']</value>
+      <webElementGuid>d3425ae4-e008-4477-bd8a-c683575a7dd1</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
 =======
    <elementGuidId>e11f01cd-4ea3-4723-b8a7-0965fe3438e2</elementGuidId>
    <selectorCollection>
