@@ -29,9 +29,9 @@ WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign           
 
 WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/i_Dashboard_sidenav-toggler-line'))
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/a_Computer Laboratory'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/span_Computer Laboratory Reservation'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 
