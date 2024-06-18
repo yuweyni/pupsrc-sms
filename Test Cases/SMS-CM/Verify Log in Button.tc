@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Clickability of Computer Reservation Form</name>
+   <name>Verify Log in Button</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>817e4e9e-3210-4b2b-b039-cbe2b909f325</testCaseGuid>
+   <testCaseGuid>8f5603dd-c55b-49ae-bc9e-18c3eb0f3a2c</testCaseGuid>
 </TestCaseEntity>
