@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Default</name>
+   <name>Clickability of Room in Maps</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>9ce22661-f045-461a-976e-fdf2f7b7c051</testCaseGuid>
+   <testCaseGuid>3cc54a54-6aad-4bcb-ab7f-2b66608f0b8d</testCaseGuid>
 </TestCaseEntity>
