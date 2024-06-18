@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
 
-WebUI.setText(findTestObject('Object Repository/Page_PUPSMS/input__email'), 'RegistrarAdmin@pupsrcsms.com')
+WebUI.setText(findTestObject('null'), 'RegistrarAdmin@pupsrcsms.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__password'), '373N5QL8KVQ=')
+WebUI.setEncryptedText(findTestObject('null'), '373N5QL8KVQ=')
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign                                    In'))
+WebUI.click(findTestObject('null'))
 
