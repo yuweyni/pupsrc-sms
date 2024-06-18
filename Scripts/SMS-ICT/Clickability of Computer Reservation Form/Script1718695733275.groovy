@@ -21,9 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
 
-WebUI.setText(findTestObject('Object Repository/Page_PUPSMS/input__email'), 'RegistrarAdmin@pupsrcsms.com')
+WebUI.setText(findTestObject('Object Repository/Page_PUPSMS/input__email'), 'faculty@pupsrcsms.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__password'), '373N5QL8KVQ=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__password'), 'RlRahI1hXsM=')
 
 WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign                                    In'))
+
+WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/i_Dashboard_sidenav-toggler-line'))
+
+WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/a_Computer Laboratory'))
+
+WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/span_Computer Laboratory Reservation'))
+
+WebUI.closeBrowser()
 

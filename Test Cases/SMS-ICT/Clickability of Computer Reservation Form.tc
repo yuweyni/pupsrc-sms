@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Clickability of Computer Reservation Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>817e4e9e-3210-4b2b-b039-cbe2b909f325</testCaseGuid>
+</TestCaseEntity>
