@@ -3,6 +3,7 @@
    <description></description>
    <name>i_Dashboard_sidenav-toggler-line</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>0a5b9ec5-bf99-4c6e-8604-a3e4b759433c</elementGuidId>
    <selectorCollection>
       <entry>
@@ -62,5 +63,66 @@
       <type>Main</type>
       <value>//i[2]</value>
       <webElementGuid>d9cc237a-35b8-4cd1-9fcb-0014843ef415</webElementGuid>
+=======
+   <elementGuidId>0713de7e-6342-4868-82de-11a305dd51dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='iconNavbarSidenav']/div/i[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#iconNavbarSidenav</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2a591308-28dd-46d4-b3dd-48ef2bac9577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav-toggler-line</value>
+      <webElementGuid>14f74946-50e1-45e8-8e3f-d94d80b5283e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iconNavbarSidenav&quot;)/div[@class=&quot;sidenav-toggler-inner&quot;]/i[@class=&quot;sidenav-toggler-line&quot;]</value>
+      <webElementGuid>e9350770-d514-4500-8fe5-a62854d7c024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='iconNavbarSidenav']/div/i[3]</value>
+      <webElementGuid>782c0aad-4f80-4364-8335-6ff664856c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[3]</value>
+      <webElementGuid>25bf85bd-6d23-4e15-a51b-1cf039f21763</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/yuweyni/pupsrc-sms.git
    </webElementXpaths>
 </WebElementEntity>
