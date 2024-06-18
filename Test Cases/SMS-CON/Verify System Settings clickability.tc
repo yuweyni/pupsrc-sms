@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Clickability of Chart of Sched</name>
+   <name>Verify System Settings clickability</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>92f7cc04-20a5-48f8-85d1-e092b4793f62</testCaseGuid>
+   <testCaseGuid>e6f82f63-835a-4e1d-a6e5-6511062922d2</testCaseGuid>
 </TestCaseEntity>

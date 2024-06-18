@@ -21,19 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://127.0.0.1:8000/sign-in')
 
-WebUI.setText(findTestObject('Object Repository/Page_PUPSMS/input__email'), 'AdminOffice@pupsrcsms.com')
+WebUI.setText(findTestObject('Object Repository/Page_PUPSMS/input__email'), 'Super_admin@pupsrcsms.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_PUPSMS/input__password'), '373N5QL8KVQ=')
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSMS/i__toggle-icon'))
-
 WebUI.click(findTestObject('Object Repository/Page_PUPSMS/button_Sign                                    In'))
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/li_Dashboard_nav-item d-xl-none ps-3 d-flex_33c8af'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/div_Dashboard_sidenav-toggler-inner'))
-
-WebUI.click(findTestObject('Object Repository/Page_PUPSRC-SMS/a_Chart of Schedules'))
+WebUI.verifyElementClickable(findTestObject('null'))
 
 WebUI.closeBrowser()
 
