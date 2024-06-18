@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>Default Page</name>
+   <description>This involves the dashboard for admin side</description>
+   <name>Dashboard</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>5d172648-a0f3-44ca-aa6a-37737461b08a</testSuiteGuid>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>27d94c61-551f-4149-b16c-5f25c139599f</testSuiteGuid>
 </TestSuiteEntity>
