@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Forms_navbar-brand-img img-fluid mb-3</name>
+   <tag></tag>
+   <elementGuidId>b5d367ff-27f0-4c98-8381-c08ad68c4bcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.navbar-brand-img.img-fluid.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='patient form']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;patient form Patient Form&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5b027436-7df8-4444-9607-efab4e635f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://pupsrc-sms.com/../../../assets/img/patient-form.png</value>
+      <webElementGuid>280c1aee-9aa4-4879-afa1-12ac1e47981f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-brand-img img-fluid mb-3</value>
+      <webElementGuid>a394d30b-4ce3-4978-a661-5e807b538c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>9edf9ccf-aeb5-4ce9-8ce1-d9a7fcd4fbca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>23a20046-4f90-4e2c-a915-ee16f10952a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>patient form</value>
+      <webElementGuid>4f6c4650-d013-4350-8ffc-20f66a08af3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;g-sidenav-show  bg-gray-100&quot;]/main[@class=&quot;main-content position-relative max-height-vh-100 h-100 border-radius-lg ps&quot;]/div[@class=&quot;container-fluid mb-3&quot;]/div[@class=&quot;container-fluid mb-2&quot;]/div[@class=&quot;row mt-5 g-3 equal-height&quot;]/div[@class=&quot;col-sm-12 col-md-4&quot;]/a[@class=&quot;text-decoration-none&quot;]/div[@class=&quot;card rounded shadow card-form-hover&quot;]/div[@class=&quot;card-body d-flex flex-column align-items-center justify-content-center&quot;]/div[@class=&quot;container-fluid text-center&quot;]/img[@class=&quot;navbar-brand-img img-fluid mb-3&quot;]</value>
+      <webElementGuid>4a379361-922d-4b4c-a5a1-e6e62adc497b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='patient form']</value>
+      <webElementGuid>4c735688-1711-4414-8e40-1eb53071ff76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>fd89b34b-715c-449e-b2af-9135abfea103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://pupsrc-sms.com/../../../assets/img/patient-form.png' and @alt = 'patient form']</value>
+      <webElementGuid>e03188fc-5df2-4797-8f61-5877bb9fdbb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
